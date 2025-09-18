@@ -1,0 +1,581 @@
+.a-gift-for-you-straight-from-parent,
+.ph-version {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.ph-version {
+  width: 100%;
+  min-width: 350px;
+  max-width: 450px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: 7.5px;
+  color: var(--color-white);
+}
+.a-gift-for-you-straight-from-parent {
+  align-self: stretch;
+  height: 583px;
+  padding: 25px var(--padding-30) 0;
+  box-sizing: border-box;
+  gap: var(--gap-10);
+  background-image: url(./public/Frame-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-12);
+  color: var(--color-darkslategray);
+}
+.a-gift-for {
+  margin: 0;
+  width: 250px;
+  position: relative;
+  font-size: var(--font-size-24);
+  line-height: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 0;
+}
+.text {
+  width: 289px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-4);
+  z-index: 1;
+}
+.since-2021-over-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 14px;
+}
+.since-2021-over {
+  font-weight: 500;
+}
+.learn-more-about {
+  width: 233px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 500;
+  display: inline-block;
+}
+.leaf5-icon,
+.let-our-tree-mendous {
+  position: absolute;
+  margin: 0 !important;
+}
+.let-our-tree-mendous {
+  width: 233px;
+  top: 93.14%;
+  left: calc(50% - 145px);
+  line-height: 14px;
+  display: inline-block;
+  color: var(--color-white);
+  z-index: 2;
+}
+.leaf5-icon {
+  width: 39.1px;
+  height: 6.67%;
+  top: 6.17%;
+  bottom: 87.15%;
+  left: calc(50% + 59px);
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 3;
+}
+.leaf7-icon {
+  width: 35.3px;
+  height: 6.33%;
+  top: 54.03%;
+  bottom: 39.64%;
+  left: calc(50% + 89px);
+  object-fit: contain;
+  z-index: 4;
+}
+.button-down-icon,
+.leaf3-icon,
+.leaf7-icon {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+}
+.leaf3-icon {
+  width: 52.6px;
+  height: 7.67%;
+  top: 57.63%;
+  bottom: 34.7%;
+  left: calc(50% - 144px);
+  object-fit: contain;
+  z-index: 5;
+}
+.button-down-icon {
+  width: 25px;
+  height: 4.29%;
+  top: 91.42%;
+  bottom: 4.29%;
+  left: calc(50% + 120px);
+  z-index: 6;
+}
+.flood-fighting-is-in-my-roots-parent {
+  align-self: stretch;
+  height: 535px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 25px var(--padding-30);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-10);
+  background-image: url(./public/Frame-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-12);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.flood-fighting-is {
+  margin: 0;
+  width: 250px;
+  position: relative;
+  font-size: var(--font-size-24);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 0;
+}
+.if-there-was-a-storm-we-lock-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 1;
+}
+.if-there-was {
+  width: 215px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 14px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child,
+.share-button {
+  margin: 0 !important;
+  position: absolute;
+}
+.frame-child {
+  width: 1.5px;
+  height: 42.99%;
+  top: 43.93%;
+  bottom: 13.08%;
+  left: calc(50% + 145px);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.share-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0 9px;
+  background-color: var(--color-darkslategray);
+  width: 82px;
+  height: 4.67%;
+  top: 89.72%;
+  bottom: 5.61%;
+  left: calc(50% + 63px);
+  border-radius: 12.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.share-this {
+  position: relative;
+  font-size: var(--font-size-12);
+  line-height: 24px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+}
+.leaf8-icon {
+  width: 67px;
+  position: absolute;
+  margin: 0 !important;
+  height: 9.21%;
+  top: 16.64%;
+  bottom: 74.15%;
+  left: calc(50% + 76px);
+  max-height: 100%;
+  object-fit: contain;
+  display: none;
+  z-index: 4;
+}
+.ph-version-text,
+.text-wrapper {
+  border-radius: var(--br-10);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.text-wrapper {
+  width: 270px;
+  background-color: var(--color-limegreen);
+  padding: 7px 9px;
+  box-sizing: border-box;
+  z-index: 5;
+}
+.ph-version-text {
+  align-self: stretch;
+  padding: var(--padding-2) 0 0;
+  gap: var(--gap-4);
+}
+.la-union-philippines {
+  align-self: stretch;
+  position: relative;
+  line-height: 14px;
+  font-weight: 800;
+}
+.the-grabforgood-mangrove-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 14px;
+}
+.for-some-were-home-sweet-hom-parent {
+  align-self: stretch;
+  height: 405px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 25px var(--padding-20) 25px var(--padding-30);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-10);
+  background-image: url(./public/Frame-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-24);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.for-some-were {
+  margin: 0;
+  width: 250px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 0;
+}
+.were-a-safe-container {
+  width: 228px;
+  position: relative;
+  font-size: var(--font-size-12);
+  letter-spacing: 0.01em;
+  line-height: 14px;
+  display: inline-block;
+  z-index: 1;
+}
+.were-a-safe-haven-for-marine {
+  margin: 0;
+}
+.were-a {
+  font-weight: 500;
+}
+.improve-the-livelihoods,
+.were-a {
+  font-family: var(--font-inter);
+}
+.dulaos-fishing-communities {
+  margin: 0;
+  font-weight: 500;
+}
+.ph-version-share-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0 9px;
+  background-color: var(--color-darkslategray);
+  width: 82px;
+  height: 6.17%;
+  margin: 0 !important;
+  position: absolute;
+  top: 86.42%;
+  bottom: 7.41%;
+  left: calc(50% - 145px);
+  border-radius: 12.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 2;
+}
+.frame-item,
+.leaf9-icon {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+}
+.frame-item {
+  width: 1.5px;
+  height: 40.74%;
+  top: 41.98%;
+  bottom: 17.28%;
+  left: calc(50% - 145px);
+  max-width: 100%;
+  overflow: hidden;
+  z-index: 3;
+}
+.leaf9-icon {
+  width: 51.8px;
+  height: 8.84%;
+  top: 60.99%;
+  bottom: 30.17%;
+  left: calc(50% - 107px);
+  object-fit: contain;
+  z-index: 4;
+}
+.you-plant-us-we-plant-jobs-parent {
+  align-self: stretch;
+  height: 470px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 25px var(--padding-20) 25px var(--padding-30);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-10);
+  background-image: url(./public/Frame-4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-24);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.you-plant-us {
+  margin: 0;
+  width: 182px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 0;
+}
+.with-your-funds-container {
+  width: 215px;
+  position: relative;
+  font-size: var(--font-size-12);
+  letter-spacing: 0.01em;
+  line-height: 14px;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-inner,
+.share-button2 {
+  margin: 0 !important;
+  position: absolute;
+}
+.frame-inner {
+  width: 1.5px;
+  height: 50%;
+  top: 35.11%;
+  bottom: 14.89%;
+  left: calc(50% + 145px);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.share-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 9px;
+  background-color: var(--color-darkslategray);
+  width: 82px;
+  height: 5.32%;
+  top: 88.3%;
+  bottom: 6.38%;
+  left: calc(50% + 63px);
+  border-radius: 12.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.ph-version-leaf3-icon,
+.ph-version-leaf9-icon {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+  object-fit: contain;
+}
+.ph-version-leaf3-icon {
+  width: 40.2px;
+  height: 11.57%;
+  top: 8.09%;
+  bottom: 80.34%;
+  left: calc(50% + 56px);
+  display: none;
+  z-index: 4;
+}
+.ph-version-leaf9-icon {
+  width: 37.9px;
+  height: 5.57%;
+  top: 74.68%;
+  bottom: 19.74%;
+  left: calc(50% - 168px);
+  z-index: 5;
+}
+.see-how-big-one-small-action-c-parent {
+  align-self: stretch;
+  height: 417px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 25px var(--padding-20) 25px var(--padding-30);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-10);
+  background-image: url(./public/Frame-5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-24);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.see-how-big-container,
+.your-tree-has-container {
+  width: 265px;
+  position: relative;
+  display: inline-block;
+}
+.see-how-big-container {
+  margin: 0;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 0;
+}
+.your-tree-has-container {
+  font-size: var(--font-size-12);
+  letter-spacing: 0.01em;
+  line-height: 14px;
+  z-index: 1;
+}
+.redeem-button,
+.terms-conditions {
+  position: absolute;
+  margin: 0 !important;
+}
+.redeem-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0 9px;
+  background-color: var(--color-darkslategray);
+  width: 172px;
+  height: 6%;
+  top: 87.05%;
+  bottom: 6.95%;
+  left: calc(50% - 86px);
+  border-radius: 12.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 2;
+}
+.terms-conditions {
+  width: 71px;
+  top: 95.44%;
+  left: calc(50% - 36px);
+  font-size: 7.5px;
+  text-decoration: underline;
+  letter-spacing: -0.01em;
+  line-height: 8px;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: center;
+  z-index: 3;
+}
+.ph-version-leaf8-icon {
+  width: 58.2px;
+  position: absolute;
+  margin: 0 !important;
+  height: 10.34%;
+  top: 36.21%;
+  bottom: 53.45%;
+  left: calc(50% + 81px);
+  max-height: 100%;
+  object-fit: contain;
+  display: none;
+  z-index: 4;
+}
+.this-tree-redemption-campaign-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  padding: var(--padding-2) 25px 25px;
+  background-image: url(./public/Frame-11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.this-tree-redemption-container {
+  width: 300px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 8px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.this-tree-redemption-campaign {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 10px;
+}
+.ph-version-this-tree-redemption-campaign {
+  margin-bottom: 1.5px;
+}
+.this-tree-redemption {
+  font-weight: 300;
+}
+.are-eligible-to {
+  font-weight: 300;
+  font-family: var(--font-inter);
+}
