@@ -19,7 +19,7 @@
 .a-gift-for-you-straight-from-parent {
   align-self: stretch;
   height: 583px;
-  padding: 25px var(--padding-30) 0;
+  padding: 25px var(--padding-20) 0 var(--padding-30);
   box-sizing: border-box;
   gap: var(--gap-10);
   background-image: url(./public/Frame-1@3x.png);
@@ -41,7 +41,7 @@
   z-index: 0;
 }
 .text {
-  width: 289px;
+  width: 300px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -51,6 +51,7 @@
 .since-2021-over-container {
   align-self: stretch;
   position: relative;
+  letter-spacing: -0.01em;
   line-height: 14px;
 }
 .since-2021-over {
@@ -59,6 +60,7 @@
 .learn-more-about {
   width: 233px;
   position: relative;
+  letter-spacing: -0.01em;
   line-height: 14px;
   font-weight: 500;
   display: inline-block;
